@@ -1,5 +1,5 @@
 # Stock Picker
 
-Para usar o programa é simples, após executá-lo, o código entrará em looping para obter preços do usuário, sendo cada preço representado um dia.
+To use the program is simple, after executing it, the code will enter a loop to obtain prices from the user, with each price representing a day.
 
-Em seguida, o programa retornará os melhores dias para a compra e a venda do produto.
+Then, the program will return the best days for buying and selling the product.
